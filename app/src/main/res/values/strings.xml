@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Examen2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+        <string name="codigo">Codigo QR</string>
+        <string name="Guardar">Guardar</string>
+        <string name="Buscar">Buscar</string>
+        <string name="Titulo">Titulo del Libro:</string>
+        <string name="Autor">Autor:</string>
+        <string name="link">Link Libro:</string>
+
+    <!---->
+    <string name="menu_gallery">Gallery</string>
+        <string name="nombre">Nombre(s):</string>
+        <string name="apellidos">Apellidos(s):</string>
+        <string name="Mostrar">Mostrar</string>
+        <string name="foto">Tomar Foto</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="Libreria">Examen del Segundo Parcial</string>
+</resources>
